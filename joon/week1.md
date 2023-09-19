@@ -36,10 +36,10 @@
 > 프로세스가 네트워크 통신에 사용할 소켓을 생성합니다. 소켓은 데이터 송수신을 위한 인터페이스 역할을 한다.
 
 <aside>
-***socket(domain, type, protocol );***
-
+  
+**_socket(domain, type, protocol )_**;
 ---
-
+  
 **_domain_** : IPv4, IPv6중 무엇을 사용할지 결정
 
 **_type_** : stream, datagram 소켓 중 선택
@@ -48,47 +48,58 @@
 
 </aside>
 
+
+
+
 ## bind()
 
 > 소켓에 특정 네트워크 주소와 포트 번호를 할당하는 역할을 한다. 주로 서버 소켓에서 사용되며, 클라이언트가 서버에 접속할 때 사용할 IP 주소와 포트 번호를 설정한다.
 
+
 <aside>
-***bind(sockfd, sockaddr, socklen_t)***
-
+  
+**_bind(sockfd, sockaddr, socklen_t)_**
 ---
-
+  
 **_sockfd_**: 바인딩을 할 소켓의 파일 디스크립터
 
 **_sockaddr_**: 소켓에 바인딩 할 아이피 주소, 포트번호를 담은 구조체
 
-********\*\*********socklen_t :********\*\********* 위 구조체의 메모리 크기
+**socklen_t_** : 위 구조체의 메모리 크기
 
 </aside>
+
+
+
+
 
 ## listen()
 
 > 서버가 클라이언트의 연결을 대기하고 처리할 수 있도록 하며, 클라이언트의 연결 요청을 받아들이기 위한 준비를 마치는 단계이다. TCP에서만 사용한다.
 
 <aside>
-***listen(sockfd, backlog)***
 
+**_listen(sockfd, backlog)_**
 ---
-
+  
 **_sockfd :_** 소켓의 파일 디스크립터
 
 **_backlog :_** 연결요청을 받아줄 크기 = TCP의 backlog 큐의 크기
 
 </aside>
 
+
+
+
 ## accept()
 
 > 서버 소켓에서 클라이언트의 연결 요청을 수락하고, 클라이언트와 통신할 수 있는 새로운 소켓을 생성하는 역할을 한다.
 
 <aside>
-***int accept(sockfd, sockaddr , socklen_t);***
-
+  
+**_int accept(sockfd, sockaddr , socklen_t);_**
 ---
-
+  
 **_sockfd :_** backlog 큐의 요청을 받아들이기 위한 소켓의 파일 디스크립터
 
 **_sockaddr :_** 선입선출로 빼온 연결 요청에서 알아낸 클라이언트의 주소 정보
@@ -96,6 +107,9 @@
 **_socklen_t :_** 위 구조체의 메모리 크기
 
 </aside>
+
+
+
 
 ## 멀티 스레드 기반 서버
 
