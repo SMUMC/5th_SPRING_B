@@ -10,9 +10,10 @@
 
 우리가 구현할 웹 서버의 http는  **TCP를 기반으로** 동작한다.
 
-![tcpschool](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%20beb23ad3114b48d5878c2a06e1f27afd/Untitled.png)
+![Untitled](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/2c49f86d-e21a-490d-b15c-85acdc7d6474)
 
-tcpschool
+
+출처:tcpschool
 
 ### **웹의 동작 방식** :
 
