@@ -37,7 +37,7 @@ VPC 설정 완료
 
 ### 실습 2
 
-![Untitled 2](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/bcdccad1-6d5b-4908-9a9b-6fe09c36538a)
+![Untitled 2](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/8d33b2e7-475b-469a-87d0-faa0ceb6bbfc)
 
 보안그룹 생성 완료
 
