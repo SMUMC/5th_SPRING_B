@@ -18,7 +18,7 @@
 
 ## 실습진행
 
-- [실습1](https://www.notion.so/2-umc-1992bcc989c14594a6dfcf0905c117b6?pvs=21)
+- [실습1](**실습-1**)
 - [실습2](https://www.notion.so/2-umc-1992bcc989c14594a6dfcf0905c117b6?pvs=21)
 - [실습3](https://www.notion.so/2-umc-1992bcc989c14594a6dfcf0905c117b6?pvs=21)
 - [실습4](https://www.notion.so/2-umc-1992bcc989c14594a6dfcf0905c117b6?pvs=21)
@@ -27,38 +27,38 @@
 
 **실습 1**
 
-![Untitled](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201992bcc989c14594a6dfcf0905c117b6/Untitled.png)
+![Untitled](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/c28193b3-b269-4d9d-950f-d5892552dc4c)
 
-![Untitled](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201992bcc989c14594a6dfcf0905c117b6/Untitled%201.png)
+![Untitled 1](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/b8650819-2810-4eea-a6f2-d6ffb7a07fdf)
 
 VPC 설정 완료
 
 **실습2**
 
-![Untitled](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201992bcc989c14594a6dfcf0905c117b6/Untitled%202.png)
+![Untitled 2](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/bcdccad1-6d5b-4908-9a9b-6fe09c36538a)
 
 보안그룹 생성 완료
 
 **실습 3**
 
-![Untitled](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201992bcc989c14594a6dfcf0905c117b6/Untitled%203.png)
+![Untitled 3](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/fc2da5ae-f3e5-455b-977b-3c504f4c9c4b)
 
 EC2 인스턴스 생성완료
 
 **실습4**
 
-![Untitled](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201992bcc989c14594a6dfcf0905c117b6/Untitled%204.png)
+![Untitled 4](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/455193e4-6d1f-43f5-b1c7-eda28978ac42)
 
 탄력적 IP주소 할당 완료
 
 **실습 4-1**
 
-![Untitled](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201992bcc989c14594a6dfcf0905c117b6/Untitled%205.png)
+![Untitled 5](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/c00cc976-11f2-432b-970a-eabce094496b)
 
 IntelliJ에서 원격접속 성공
 
 **실습 5**
 
-![Untitled](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20umc%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201992bcc989c14594a6dfcf0905c117b6/Untitled%206.png)
+![Untitled 6](https://github.com/SMUMC/5th_SPRING_B/assets/89975936/3dec9e47-84e1-4dd2-8566-ad6c4f26fea8)
 
 NGINX 설치 및 브라우저에서 접속 완료
