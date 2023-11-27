@@ -1,0 +1,11 @@
+
+a
+java:S2387"D"logger" is the name of a field in "ResponseEntityExceptionHandler".(õ·ğş8û²‰€Á1
+‰
+java:S4144J"gUpdate this method so that its implementation is not identical to "handleExceptionInternal" on line 62.(ÿïó¡ûÿÿÿÿ8’­‹€Á1
+d
+java:S1854."BRemove this useless assignment to local variable "servletRequest".(´¨®ûÿÿÿÿ8³‰€Á1
+M
+java:S1172)"+Remove this unused method parameter "body".(–Ã’şÿÿÿÿ8ØıŠ€Á1
+U
+java:S1481."3Remove this unused "servletRequest" local variable.(´¨®ûÿÿÿÿ8–³‰€Á1

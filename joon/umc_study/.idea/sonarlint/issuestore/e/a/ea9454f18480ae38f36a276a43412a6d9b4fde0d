@@ -1,0 +1,13 @@
+
+d
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(”Áíøÿÿÿÿ8–¹Á1
+k
+java:S1128"IRemove this unused import 'jakarta.persistence.criteria.CriteriaBuilder'.(À¼ºñşÿÿÿÿ8‹Æù€Á1
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8˜¹Á1
+H
+java:S1128"+Remove this unused import 'lombok.Builder'.(§’Ğß8˜¹Á1
+G
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8˜¹Á1
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8™¹Á1

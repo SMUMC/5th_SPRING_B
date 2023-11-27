@@ -1,0 +1,8 @@
+
+5
+java:S1700#"Rename field "code"(çÏ£Ğÿÿÿÿÿ8ïäÿÿÀ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å±Ù¢øÿÿÿÿ8—åÿÿÀ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°›®Ï8˜åÿÿÀ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×“ıÑşÿÿÿÿ8˜åÿÿÀ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÎÓó8™åÿÿÀ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î‰£ùûÿÿÿÿ8šåÿÿÀ1

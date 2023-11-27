@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87cfe7c1-433a-4466-8a9c-77e3eb9975eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/StudyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/FoodCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/Mission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/Terms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/common/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/enums/MemberStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/enums/MissionStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/enums/SocialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/mapping/MemberAgree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/mapping/MemberMission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc_study/src/main/java/study/domain/mapping/MemberPrefer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc_study/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/umc_study/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc_study/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc_study/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/umc_study/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WU4k3Kdvu4YwqM8g2h4Exq2SCB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "mission7__joon",
+    "last_opened_file_path": "/Users/hyoungjoon"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
